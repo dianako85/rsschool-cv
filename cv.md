@@ -5,7 +5,7 @@
 **Skills:**
 + Native Russian
 + English (intermediate)
-+ Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing,MSSQL
++ Basic theoretical knowledge: HTML, CSS, SASS, JS, React, Git, GitHub, VS Code, Figma. The basics of testing
 + Driving License (Category B)
 + Computer skills: at the level of an experienced user (Microsoft Office, Internet, etc.).
 + Hobbies: foreign language, sport
